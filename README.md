@@ -5,6 +5,16 @@ Due to a repo from `stanford-mir`, i was aware of that my knowledge about audio 
 
 
 ## Folder Structure
+ ```text
+  <audio_process_practice>
+   ├── README.md
+   ├── audio
+   │   └── TechnoDrumMIX.wav
+   ├── dockerfile
+   ├── notebooks
+   │   └── librosa_practice.ipynb
+   └── requirements.txt
+ ```
 
 ## Requirements
 See also `requirements.txt`
