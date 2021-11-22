@@ -43,3 +43,7 @@ $ pip install -r requirements.txt
      ```
       $ python -m ipykernel install --user --name audio_process --display-name "audio_process"
      ```
+- How to activate the jupyternotebook env?
+    ```
+    $ jupyter notebook
+    ```
